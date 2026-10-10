@@ -1,0 +1,7 @@
+# Dataset mentah: terlalu besar untuk GitHub (lihat data/README.md)
+data/*.csv
+data/*.zip
+
+# Python
+__pycache__/
+*.pyc
