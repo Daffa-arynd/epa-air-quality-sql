@@ -1,0 +1,2 @@
+*.sql linguist-detectable=true
+scripts/*.py linguist-detectable=false
